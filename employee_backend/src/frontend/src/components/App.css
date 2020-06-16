@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.bg{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(30deg,#1677C5,#3DBDFF,#64EEFA,#A4FFEC,#93d5c9);
+    clip-path: polygon(0% 0%,100% 0%,100% 75%,0% 100%);
+}
+.header{
+    background-color: rgb(147,213,201);
+    height:50px;
+    text-align: left;
+}
+h4{
+    
+    padding:10px;font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border: none;
+}
+.login{
+    transform: translateY(20%);
+    margin: auto;
+}
+i{
+    cursor: pointer;
+}
+thead {
+    color:rgba(147,213,201);
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+    font-family: Georgia;
+}
+.table-item{
+    text-transform: uppercase;
+}
+.card{
+    background:  rgb(0, 0, 0,0.6) ;
+    border-radius: 25px;
+}
+.relocate{
+    margin-top: 15px ;
+    text-align: center ;
+    color: black ;
+    width: 100px;
+    z-index: 5 ;
+    background:  rgba(147,213,201) ;
+    border-radius: 20px ;
+    border: none ;
+    text-transform: uppercase;
+     
+}
+::placeholder{
+    color: white;
+    opacity: 0.5;
+}
+input{
+    color:  rgb(250, 250, 250);
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border:none;
+    border-bottom: 2px solid rgba(147,213,201);
+    font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+ }
+
+
+
