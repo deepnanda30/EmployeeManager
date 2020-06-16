@@ -1,4 +1,4 @@
-This site deals with CRUD operation using Django-rest-framework for creating api and uses Django for backend ; ReactJS for frontend.
+This site deals with CRUD (Create,Read,Update,Delete) operation using Django-rest-framework for creating api and uses Django for backend ; ReactJS for frontend.
 However, token authentication is not included in the project. But a frontend for login page is made to enter login details (any details)
 which is the routed to manager page which allows crud operations to be performed.
 
