@@ -7,9 +7,10 @@ Also "pip install django djangorestframework django-rest-knox" is required to  s
 
 A virtual environment is setup  using "virtualenv" command. 
 
-After setting up the project, run the server by  changing the directory to Employee\employee_backend\src and then run the command - " python manage.py runserver"
+After setting up the project, run the server by  changing the directory to Employee\employee_backend\src and then run the command -
+"python manage.py runserver"
 Also run the command -" npm run dev " to get react  integrated and reflect the changes in the frontend.
-sqllite3 database is used for the concerned operations.
+sqlite database is used for the concerned operations.
 
 ![](screenshots/Login.png)
 ![](screenshots/Manage-1.png)
